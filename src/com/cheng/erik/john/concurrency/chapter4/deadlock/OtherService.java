@@ -1,4 +1,4 @@
-package com.cheng.erik.john.concurrency.chapter4.dead_lock;
+package com.cheng.erik.john.concurrency.chapter4.deadlock;
 
 /**
  * @ClassName ：OtherService
